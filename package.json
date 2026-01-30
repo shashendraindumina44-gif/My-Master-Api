@@ -1,0 +1,11 @@
+{
+  "name": "ultimate-video-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "@distube/ytdl-core": "latest",
+    "yt-search": "^2.10.4",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
